@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LOLBAS
+title: OmniBins
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id="></script>

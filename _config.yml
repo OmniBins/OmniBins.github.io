@@ -1,5 +1,5 @@
 ---
-title: LOLBAS
+title: OmniBins
 
 exclude: ['/Gemfile', '/Makefile', '/README.md', '/NOTICE.md', 'LICENSE']
 

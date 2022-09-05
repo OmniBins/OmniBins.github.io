@@ -13,7 +13,7 @@ title: OmniBins
 </script>
 
 <div class="header-box">
-<a href="https://github.com/OmniBins/OmniBins/blob/master/README.md"><img src="{{ '/assets/logo.png' | relative_url }}" height="150" style="margin-right: 10px;"></a>
+<a href="https://github.com/OmniBins/OmniBins/blob/master/README.md"><img src="{{ '/assets/logo.png' | relative_url }}" height="180" style="margin-right: 10px;"></a>
 <div>
 <h2 style="margin-top: 0">Omnipresent Binaries, well almost...</h2>
 

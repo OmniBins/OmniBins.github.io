@@ -18,10 +18,10 @@ title: OmniBins
 <h2 style="margin-top: 0">Omnipresent Binaries, well almost...</h2>
 
 
-Locked up by AppLocker? Stuck in a Kiosk? or just requiring that extra bit of stealth? OmniBins has a way out.
+Locked up by AppLocker? Stuck in a Kiosk? or just requiring that extra bit of stealth? OmniBins has a way out.. or in I guess..
 <br><br>
 
-This project collects third-party binaries and libraries commonly found in business environments, which can be leveraged to execute commands, manipulate files, bypass Applocker and much more.
+This project collects third-party binaries and libraries commonly found in business environments which can be leveraged to execute commands, manipulate files, bypass AppLocker and much more.
 <br>
 <br>
 If you want to contribute, check out our

@@ -5,19 +5,19 @@
     <table id="bin-table">
         <thead>
             <tr>
-                <th style="width: 45%">Binary</th>
-                <th style="width: 20%">Functions</th>
-                <th style="width: 20%">Type</th>
-                <th style="width: 15%">ATT&CK&reg; Techniques</th>
+                <th style="width: 45%">Name</th>
+                <th style="width: 20%">Binary</th>
+                <th style="width: 20%">Functions/th>
+                <th style="width: 15%">Type</th>
             </tr>
         </thead>
         <tbody>
             {% for file in site.omnibins %}
             <tr>
                 <td><a href="{{ file.url | relative_url }}" class="bin-name">{{ file.Name }}</a></td>
+                <td>{{ file.Binary }}</td>
                 <td>{% include function_list.html bin=file %}</td>
                 <td>{% include get_type_name path=file.path %}</td>
-                <td>{% include get_attack_tids.html bin=file %}</td>
             </tr>
             {% endfor %}
         </tbody>

@@ -15,7 +15,7 @@ title: OmniBins
 <div class="header-box">
 <a href="https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md"><img src="{{ '/assets/logo.png' | relative_url }}" height="150" style="margin-right: 10px;"></a>
 <div>
-<h2 style="margin-top: 0">Living Off The Land Binaries, Scripts and Libraries</h2>
+<h2 style="margin-top: 0">(Almost) Omnipresent Binaries</h2>
 
 
 

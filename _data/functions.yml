@@ -2,64 +2,74 @@
 execute:
   label: Execute
   description: |
-    The LOLBAS can achieve abritrary code execution.
+    The OmniBin can achieve abritrary code execution.
 
 download:
   label: Download
   description: |
-    The LOLBAS can download files.
+    The OmniBin can download files.
     
 upload:
   label: Upload
   description: |
-    The LOLBAS can upload files.
+    The OmniBin can upload files.
     
 encode:
   label: Encode
   description: |
-    The LOLBAS can encode files.
+    The OmniBin can encode files.
     
 decode:
   label: Decode
   description: |
-    The LOLBAS can decode files.
+    The OmniBin can decode files.
     
 ads:
   label: Alternate data streams
   description: |
-    The LOLBAS can write or read alternate data streams.
+    The OmniBin can write or read alternate data streams.
 
 copy:
   label: Copy
   description: |
-    The LOLBAS can copy file.
+    The OmniBin can copy file(s).
 
 credentials:
   label: Credentials
   description: |
-    The LOLBAS can view credentials file.
+    The OmniBin can view credentials file.
     
-compile:
-  label: Compile
+browse files:
+  label: Browse Files
   description: |
-    The LOLBAS can compile code.
+    The OmniBin can compile code.
     
-awl bypass:
-  label: AWL bypass
-  description: |
-    The LOLBAS can bypass application whitelisting solutions.
+# awl bypass:
+#   label: AWL bypass
+#   description: |
+#     The OmniBin can bypass application whitelisting solutions.
     
 uac bypass:
   label: UAC bypass
   description: |
-    The LOLBAS can bypass User Access Control in Windows.
+    The OmniBin can bypass User Access Control in Windows.
     
 reconnaissance:
   label: Reconnaissance
   description: |
-    The LOLBAS can be used to gather interesting information.
+    The OmniBin can be used to gather interesting information.
     
 dump:
   label: Dump
   description: |
-    The LOLBAS can be used to dump process.
+    The OmniBin can be used to dump process.
+
+launch program:
+  label: Launch Program
+  description: |
+    The OmniBin can be used to launch another program.
+
+close program:
+  label: Close Program
+  description: |
+    The OmniBin can be used to close a program.

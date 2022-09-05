@@ -3,13 +3,13 @@ layout: page
 title: OmniBins
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3VWR0MWT8H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA--1');
+  gtag('config', 'G-3VWR0MWT8H');
 </script>
 
 <div class="header-box">
@@ -29,7 +29,9 @@ If you want to contribute, check out our
 Our <a href="https://github.com/OmniBins/OmniBins#criteria">criteria list</a> sets out what we define as a LOLBin/Script/Lib.
 <br>
 <br>
-Heavily inspired by <a href="https://gtfobins.github.io/">gtfobins.github.io</a> as well as <a href="https://omnibins.github.io/">omnibins.github.io</a>.
+Heavily inspired by <a href="https://gtfobins.github.io/">gtfobins.github.io</a> as well as <a href="https://lolbas-project.github.io/
+">lolbas-project.github.io
+</a>.
 </div>
 </div>
 

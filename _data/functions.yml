@@ -73,3 +73,8 @@ close program:
   label: Close Program
   description: |
     The OmniBin can be used to close a program.
+
+Other:
+  label: Other
+  description: |
+    The OmniBin hase some other "unexpected" functionality.

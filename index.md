@@ -13,7 +13,7 @@ title: OmniBins
 </script>
 
 <div class="header-box">
-<a href="https://github.com/OmniBins/OmniBins/blob/master/README.md"><img src="{{ '/assets/logo.png' | relative_url }}" height="180" style="margin-right: 10px;"></a>
+<a href="https://omnibins.github.io/"><img src="{{ '/assets/logo.png' | relative_url }}" height="180" style="margin-right: 10px;"></a>
 <div>
 <h2 style="margin-top: 0">Omnipresent Binaries, well almost...</h2>
 
@@ -25,8 +25,8 @@ This project collects third-party binaries and libraries commonly found in busin
 <br>
 <br>
 If you want to contribute, check out our
-<a href="https://github.com/OmniBins/OmniBins/blob/master/CONTRIBUTING.md">contribution guide</a>.
-Our <a href="https://github.com/OmniBins/OmniBins#criteria">criteria list</a> sets out what we define as a LOLBin/Script/Lib.
+<a href="https://github.com/OmniBins/OmniBins#contributing">contribution guide</a>.
+Our <a href="https://github.com/OmniBins/OmniBins#criteria">criteria list</a> sets out what we define as a OmniBin/Script/Lib.
 <br>
 <br>
 Heavily inspired by <a href="https://gtfobins.github.io/">gtfobins.github.io</a> as well as <a href="https://lolbas-project.github.io/

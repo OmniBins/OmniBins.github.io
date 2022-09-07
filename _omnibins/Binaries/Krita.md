@@ -11,7 +11,6 @@ Commands:
     Category: Execute
     Privileges: None
     MitreID: T1547
-    OperatingSystem: Windows 11,10,8,7
 Full_Path:
   - Path: 'C:\Program Files\Krita (x64)\bin\kritarunner.exe'
 Code_Sample: 

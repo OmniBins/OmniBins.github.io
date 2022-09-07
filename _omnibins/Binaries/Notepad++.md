@@ -2,6 +2,10 @@
 Name: Notepad++
 Binary: gup.exe
 Description: Notepad++ is a text and source code editor for use with Microsoft Windows.
+GeneralInformation:
+  IsSigned: 'Yes'
+  TestedVersion: 8.4.4
+  Interface: Console
 Author: ZeMooX
 Created: 2022-09-07
 Commands:
@@ -9,9 +13,7 @@ Commands:
     Description: Executes cmd.exe
     Usecase: Execute an arbitrary file using a signed binary.
     Category: Execute
-    Privileges: None
-    MitreID: T1547
-    OperatingSystem: Windows 11,10,8,7
+    Privileges: User
 Full_Path:
   - Path: 'C:\Program Files (x86)\Notepad++\updater\gup.exe'
 Code_Sample: 

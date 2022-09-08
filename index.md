@@ -3,15 +3,6 @@ layout: page
 title: OmniBins
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3VWR0MWT8H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-3VWR0MWT8H');
-</script>
-
 <div class="header-box">
 <a href="https://omnibins.github.io/"><img src="{{ '/assets/logo.png' | relative_url }}" height="180" style="margin-right: 10px;"></a>
 <div>

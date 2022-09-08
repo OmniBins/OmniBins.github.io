@@ -1,6 +1,6 @@
 ---
 Name: Notepad++
-Binary: gup.exe
+Binary: GUP.exe
 Description: Notepad++ is a text and source code editor for use with Microsoft Windows.
 GeneralInformation:
   IsSigned: 'Yes'
@@ -15,9 +15,9 @@ Commands:
     Category: Execute
     Privileges: User
 Full_Path:
-  - Path: 'C:\Program Files (x86)\Notepad++\updater\gup.exe'
-Code_Sample: 
-  - Code: https://github.com/LuxNoBulIshit/test.inf/blob/main/inf
+  - Path: 'C:\Program Files (x86)\Notepad++\updater\GUP.exe'
+Resources:
+  - Link: https://github.com/notepad-plus-plus/wingup/blob/master/src/winmain.cpp
 Acknowledgement:
   - Person: ZeMooX
 ---
